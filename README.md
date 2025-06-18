@@ -46,3 +46,14 @@ Solve fast-paced math problems under time pressure. Ideal for sharpening your br
 1. Clone this repository:
 ```bash
 git clone https://github.com/Jaskaransingh8427/GameX.git
+
+## License
+
+This project, *GameX, is created by **Jaskaran Singh* and is licensed under the  
+[Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You are free to:
+- Study and contribute
+- Use the code for *non-commercial* purposes only
+
+*You may NOT use this project for commercial or personal reuse without explicit permission.*
